@@ -66,4 +66,4 @@ Mail Id : shivampanchal0105@gmail.com
 <br />
 LinkedIn : [Shivam Panchal](https://www.linkedin.com/in/shivam-panchal-3947391b0/)
 
-Thank you spending your precious time. Have a nice day :)
+Thank you for spending your precious time. Have a nice day :grin:
