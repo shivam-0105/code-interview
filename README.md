@@ -12,10 +12,18 @@ https://limitless-lowlands-12101.herokuapp.com/
 3. MongoDB
 4. ExpressJS
 5. SocketIO
-6. Peerjs (for WebRTC)
+6. PeerJS (for WebRTC)
 
-I hope you enjoy the app
+## Features
+- It has basic functionality like Register User, Login User, Delete User
+- Create your entire profile, update your profile and delete your profile
+- After profile, you can conduct interview calls
+- It has a basic text editor for coding purpose (Implemented using SocketIO)
+- It also has video call feature (Implemented using PeerJS) 
 
-In case of any queries, suggestion or anything, you can contact me : Mail Id : shivampanchal0105@gmail.com
+## Contact Me
+Mail Id : shivampanchal0105@gmail.com
+<br />
+LinkedIn : [Shivam Panchal](https://www.linkedin.com/in/shivam-panchal-3947391b0/)
 
 Thank you spending you precious time. Have a nice day :)
