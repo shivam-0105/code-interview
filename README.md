@@ -31,11 +31,39 @@ Interviewer  : [Gaurang Maheshwari](https://github.com/GaurangMaheshwari4) :laug
 ![Screenshot from 2022-03-12 19-37-02](https://user-images.githubusercontent.com/70219870/158021361-5cf1c5ec-2bb9-435d-9ad7-6466f8d81eb1.png)
 ![Screenshot from 2022-03-12 19-37-07](https://user-images.githubusercontent.com/70219870/158021366-183ad18c-e0e4-4dd2-b7c0-59068eb1aebc.png)
 
-
+## Install Locally
+To get the app locally on your machine, follow the below mentioned steps
+<br/>
+Fork, then download or clone the repo.
+```bash
+git clone https://github.com/shivam-0105/code-interview.git
+```
+Now in the root directory, install the required backend dependencies using the following command in the terminal
+```bash
+npm install
+```
+Now for the frontend part, go to client folder and install the required dependencies
+```bash
+cd client
+npm install
+```
+Now go back to root directory, then go to config folder, and create a file called "default.json"
+```bash
+cd config
+```
+In the *default.json* file, fill the following details
+```bash
+{
+    "mongoURI": "MongoDB URL of your database",
+    "jwtSecret": "You can type anything here",
+    "githubClientId": "Go to Developer Settings of Github and then OAuth, and create an app and this will generate the clientID",
+    "githubSecret": "Go to Developer Settings of Github and then OAuth, and create an app and this will generate the secretID"
+}
+```
 
 ## Contact Me
 Mail Id : shivampanchal0105@gmail.com
 <br />
 LinkedIn : [Shivam Panchal](https://www.linkedin.com/in/shivam-panchal-3947391b0/)
 
-Thank you spending you precious time. Have a nice day :)
+Thank you spending your precious time. Have a nice day :)
