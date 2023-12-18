@@ -4,6 +4,8 @@ const cors = require('cors');
 const http = require('http');
 const connectDB = require('./config/db');
 const path = require('path');
+require('dotenv').config();
+ 
 
 const server = http.createServer(app);
 const { CLIENT_URL } = require('./config/config');
