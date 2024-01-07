@@ -25,7 +25,7 @@ app.use('/auth' , require('./routes/auth'));
 
 const io = require('socket.io')(server , {
 	cors: {
-		origin: CLIENT_URL,
+		origin: "*",
 		methods: ['GET' , 'POST']
 	}
 });
