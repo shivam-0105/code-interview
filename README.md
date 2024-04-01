@@ -6,7 +6,7 @@ A web application where in the user needs to create an account and profile and t
 ![Screenshot from 2022-03-12 19-37-34](https://user-images.githubusercontent.com/70219870/158021377-b21a32b3-c47b-4bc5-a5e7-b7b7577494b2.png)
 
 ## Host Link 
-https://limitless-lowlands-12101.herokuapp.com/
+https://code-interview.vercel.app
 
 ## Technologies Used 
 1. ReactJS
