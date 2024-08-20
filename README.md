@@ -3,13 +3,12 @@
 ## About the project
 A web application where in the user needs to create an account and profile and then the user and conduct interviews with realtime video call. It contains a normal text editor. All changes made in the editor are reflected on both side.
 
-![Screenshot from 2022-03-12 19-37-34](https://user-images.githubusercontent.com/70219870/158021377-b21a32b3-c47b-4bc5-a5e7-b7b7577494b2.png)
+<img width="1470" alt="Screenshot 2024-08-20 at 1 21 07 PM" src="https://github.com/user-attachments/assets/675423b9-c43d-4ae4-9ad5-df4c4a446b19">
 
-## Host Link 
-https://code-interview.vercel.app
+
 
 ## Technologies Used 
-1. ReactJS
+1. ReactJS & TypeScript
 2. NodeJS
 3. MongoDB
 4. ExpressJS
@@ -24,12 +23,8 @@ https://code-interview.vercel.app
 - It also has video call feature (Implemented using PeerJS) 
 
 ## Example
-Interviewer  : [Gaurang Maheshwari](https://github.com/GaurangMaheshwari4) :laughing:
-![Screenshot from 2022-03-12 19-20-28](https://user-images.githubusercontent.com/70219870/158021266-56a2e310-8389-48d2-9c0b-7d5297f43cb2.png)
-![Screenshot from 2022-03-12 19-25-01](https://user-images.githubusercontent.com/70219870/158021355-f7037ca7-4efb-421e-bbaa-4a64be426f51.png)
-![Screenshot from 2022-03-12 19-36-37](https://user-images.githubusercontent.com/70219870/158021357-23be4471-9cc9-4b19-9da9-78fd1791b47d.png)
-![Screenshot from 2022-03-12 19-37-02](https://user-images.githubusercontent.com/70219870/158021361-5cf1c5ec-2bb9-435d-9ad7-6466f8d81eb1.png)
-![Screenshot from 2022-03-12 19-37-07](https://user-images.githubusercontent.com/70219870/158021366-183ad18c-e0e4-4dd2-b7c0-59068eb1aebc.png)
+<img width="1468" alt="Screenshot 2024-08-20 at 1 20 14 PM" src="https://github.com/user-attachments/assets/6a34281c-cc3f-43c7-ba55-b1558c97aba0">
+
 
 ## Install Locally
 To get the app locally on your machine, follow the below mentioned steps
